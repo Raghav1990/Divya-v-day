@@ -11,14 +11,17 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
+    "Wait... did your finger slip? 🤨",
+    "Error 404: 'No' not found in my heart. 💔"",
+    "Okay, playing hard to get... I see you. 😏",
+    "Dudu🐼, even the Wi-Fi wants you to say yes. 📶",
+    "I'll trade you my snacks for a 'Yes'? 🍕",
     "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "I'm telling your mom! 📱",
+    "If you click no again, I'm ordering McD & fries for myself. 🍔 🍟",
+    "You're just doing this for the animations & messages now, aren't you? 😂",
+    "Okay, fine! But look how big the 'Yes' button is getting.."
+    
 ]
 
 const yesTeasePokes = [
