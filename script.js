@@ -20,7 +20,7 @@ const noMessages = [
     "I'm telling your mom! 📱",
     "You're just doing this for the animations & messages now, aren't you? 😂",
     "Legend says if you click this, a kitten cries. 😿",
-    "Okay, fine! But look how big the 'Yes' button is getting.. 🦖"
+    "Okay, fine! But look how big the 'Yes' button is getting.."
 ]
 
 const yesTeasePokes = [
