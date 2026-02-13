@@ -14,20 +14,18 @@ const noMessages = [
     "Wait... did your finger slip? 🤨",
     "Error 404: 'No' not found in my heart. 💔",
     "Okay, playing hard to get... I see you. 😏",
-    "Dudu🐼, even the Wi-Fi wants you to say yes. 📶",
-    "I'll trade you my snacks for a 'Yes'? 🍕",
     "If you click no again, I'm ordering McD & fries for myself. 🍔 🍟",
+    "Please??? 💔",
     "I'm telling your mom! 📱",
     "You're just doing this for the animations & messages now, aren't you? 😂",
-    "Legend says if you click this, a kitten cries. 😿",
-    "Okay, fine! But look how big the 'Yes' button is getting.."
+    "You can't catch me anyway 😜"
 ]
 
 const yesTeasePokes = [
-    "Try saying no first... I bet you want to see how dramatic I get 😏",
-    "Go on, hit no... I put a lot of work into the sad faces 👀",
-    "You're missing out on the guilt trip 😈",
-    "Click no, I dare you. It gets funny 😏"
+    "try saying no first... I bet you want to know what happens 😏",
+    "go on, hit no... just once 👀",
+    "you're missing out 😈",
+    "click no, I dare you 😏"
 ]
 
 let yesTeasedCount = 0
